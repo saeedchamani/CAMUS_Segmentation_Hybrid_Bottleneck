@@ -1,6 +1,6 @@
 # Multi-Attention Enhanced Encoder-Decoder Network with Hybrid Transformer Bottleneck for Echocardiography Image Segmentation
 
-Official implementation of the Scientific Reports submission:
+Official implementation of:
 
 **“Multi-Attention Enhanced Encoder-Decoder Network with Hybrid Transformer Bottleneck for Echocardiography Image Segmentation”**
 
